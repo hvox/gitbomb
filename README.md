@@ -14,5 +14,5 @@ But git is clever enough to store them as one file in `.git`.
 So... in general:
 
   1. Repository is only few megabytes before pushing to github.
-  2. After pushing to github, repository is 61GB, but github stores it in few megabytes(github stores only `.git` directory, which is small)
-  3. After cloning, repository will be 61GB.
+  2. Pushed to github, repository is 61GB, but github stores it in few megabytes(github stores only `.git` directory, which is small)
+  3. Cloned repository will be 61GB.
